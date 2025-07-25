@@ -6,7 +6,7 @@ I wrote and executed SQL queries to explore and analyze the dataset, performing 
 
 - Identifying the tallest, heaviest, and most powerful Pokémon.
 - Aggregating and grouping by types to find averages and distributions and which type is the most common.
-- Analyzing moves and abilities to identify trends and unique characteristics.
+- Analyzing move sets and abilities to identify trends and unique characteristics.
 
 This project demonstrates my ability to work with complex datasets, write optimized SQL queries, and extract actionable insights using aggregations, filtering, and sorting techniques.
 
